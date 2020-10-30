@@ -1,0 +1,31 @@
+---
+title: "Yuqi's Portfolio"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Hello! Welcome to Yuqi's website
+
+_Let me tell you something about me..._
+
+My name is Yuqi Wang, a MPH candidate at Columbia University.
+
+I love kitty!!!
+
+![](images/cat.jpg)
+
+## Guidance for this website
+
+From this website, you can know something about me. On top right site, I include some information about my resume, my email, my github and my linkedin. Also, since this is the website for homework, you may also find a link for the Dashboard in the latter sections. I will try to input more things in the website in the future.
+
+
+## Link to page within the site
+
+[About me](about_me.html)
+[Dashboard] oops, I haven't done that.
+
+
+
+
