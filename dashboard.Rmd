@@ -10,10 +10,8 @@ output:
 ```{r setup, include=FALSE}
 library(flexdashboard)
 library(tidyverse)
-library(p8105.datasets)
 library(plotly)
 library(rnoaa)
-
 ```
 
 ```{r}
@@ -35,11 +33,12 @@ weather_df =
   select(name, id, everything())
 ```
 
-Column {data-width=650}
 
+
+Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### The distribution of the max and min temperature
 
 ```{r}
 weather_df %>% 
@@ -50,16 +49,16 @@ weather_df %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### The distribution of Precipitation in the three areas
 
 ```{r}
 weather_df %>% 
   mutate(name = fct_reorder(name, prcp),
-         text_label = str_c(name, "\nPenetration: ", prcp, " mm")) %>% 
+         text_label = str_c(name, "\nPrecipitation: ", prcp, " mm")) %>% 
   plot_ly(y = ~prcp, x = ~name, color = ~name, text = ~text_label, type = "violin", colors = "viridis")
 ```
 
-### Chart C
+### The trend of the maximun temperature in 2017
 
 ```{r}
 weather_df %>% 

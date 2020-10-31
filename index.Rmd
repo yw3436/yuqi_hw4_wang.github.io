@@ -26,7 +26,9 @@ From this website, you can learn something about me. On top right site, I includ
 
 ## Link to page within the site
 
-[Dashboard] oops, I haven't done that yet.
+If you would like to look at my brief resume, please go to [About Me](about_me.html).
+
+If you are interested in the dashboard I made for the `rnoaa` dataset, please go to [Dashboard](dashboard.html).
 
 
 

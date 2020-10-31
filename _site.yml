@@ -6,7 +6,7 @@ navbar:
     - text: "About me"
       href: about_me.html
     - text: "Dashboard"
-      href: Dashboard.html
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<yw3436@cumc.columbia.edu>
     - icon: fab fa-linkedin
