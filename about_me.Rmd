@@ -1,5 +1,5 @@
 ---
-title: "Resume for Yuqi"
+title: "Resume for Yuqi Wang"
 output: 
   html_document:
     toc: true
