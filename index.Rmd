@@ -16,7 +16,7 @@ I love kitty!!!
 
 ![](images/cat.jpg)
 
-For more information, please go to [About Me](about_me.html).
+For more information, please go to [About Me](about_me.html) to read my resume.
 
 
 
