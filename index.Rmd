@@ -19,9 +19,13 @@ I love kitty!!!
 For more information, please go to [About Me](about_me.html).
 
 
+
+
 ## Guidance for this website
 
-From this website, you can learn something about me. On top right site, I include some information about my resume, my email, my github and my linkedin. Also, since this is the website for homework, you may also find a link for the Dashboard in the latter sections. I will try to input more things in the website in the future.
+From this website, you can learn something about me. On top right site, I include some information about **my resume, my email, my github and my linkedin**. Also, since this is the website for homework, you may also find a link for the Dashboard in next sections. I will try to input more things in the website in the future.
+
+
 
 
 ## Link to page within the site
